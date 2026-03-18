@@ -1,0 +1,22 @@
+{
+    "Name": "Marmoset electrophysiology and kinematics during prey capture (monkey MG)",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Electrophysiology recorded from a 96-channel Utah array implanted in primary motor and somotasensory cortex of the common marmoset. The file also contains kinematics of the hand, elbow, wrist, and head as the marmoset engaged in a naturalistic prey capture task with live moths. This is the processed version of the data, which contains spike-sorted electrophysiology and quantified kinematics (processed by DeepLabCut and Anipose). ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Moore, Dalton",
+        "Walker, Jeffrey",
+        "MacLean, Jason",
+        "Hatsopoulos, Nicholas"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
